@@ -4,8 +4,7 @@
    const redditFetch = require('reddit-fetch')
    const PREFIX = '-'
    require('dotenv').config()
-   
-   //const TOKEN ='OTQzMjU2NDgyMTYwNDQ3NTI4.YgwaDg.GG6a0zxE9fnwhTiuM2Q8PEeEYd4'
+
    
 
          client.on('ready',() => {
